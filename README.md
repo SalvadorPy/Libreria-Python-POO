@@ -49,7 +49,7 @@ Programa de **consola en Python** que permite **registrar y listar libros** util
 ### 📂Estructura del proyecto
 ``` bash
 project/
- ├── main.py 
+ ├── registro.py 
  ├── literatura.py 
  ├── no_ficction.py 
  ├── ficction.py 
@@ -62,7 +62,7 @@ git clone https://github.com/SalvadorPy/Libreria-Python-POO
 ```
 Ejecuta el script
 ```
-python main.py
+python registro.py
 ```
 
 El programa preguntará si deseas agregar libros y, al finalizar, mostrará todos los libros registrados.
